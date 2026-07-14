@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Eliott Velarde 👋
 
-<!--
-**EliottV17/EliottV17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer | Python (FastAPI) | Backend Architecture | System Design Enthusiast**
 
-Here are some ideas to get you started:
+I'm a Software Engineer based in Peru, specializing in building robust, scalable, and asynchronous backend architectures. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+*   **Backend & Systems:** Python, Go, TypeScript (Node.js), PostgreSQL, REST APIs, Microservices
+*   **Frameworks & ORMs:** FastAPI, SQLModel, Pydantic, Alembic
+*   **Cloud & DevOps:** AWS, Docker, GitHub Actions (CI/CD), Linux
+*   **Development Tools:** Neovim, TMUX, Git, VS Code
+
+### 🚀 Featured Project
+*   **[Sentinel API](https://github.com/EliottV17/sentinel-api):** An asynchronous monitoring engine and alerting system built from scratch. Developed with FastAPI, SQLModel, and PostgreSQL.
+
+### 📚 Currently Learning
+*   Large-scale distributed systems architecture (System Design).
+*   Cloud computing and AWS infrastructure.
+*   Advance API Design
+
+### 📫 Let's Connect
+*   [LinkedIn](www.linkedin.com/in/eliott-velarde)
