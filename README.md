@@ -1,6 +1,6 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Backend Engineer | Python (FastAPI) | Backend Architecture | System Design Enthusiast**
+**Backend Engineer | Software Engineer | Backend Architecture | System Design Enthusiast**
 
 I'm a Software Engineer based in Peru, specializing in building robust, scalable, and asynchronous backend architectures. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
 
