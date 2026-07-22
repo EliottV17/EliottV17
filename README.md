@@ -6,7 +6,7 @@ I'm a Software Engineer based in Peru, specializing in building robust, scalable
 
 ### 🛠️ Technologies
 *   **Languages:** TypeScript, Python, Go, SQL
-*   **Frameworks:** NestJS, ExpressJS, FastAPI, ReactJS
+*   **Libraries/Frameworks:** NestJS, ExpressJS, FastAPI, ReactJS
 *   **Databases & Caching:** PostgreSQL, MySQL, Redis
 *   **Testing & Quality:** Jest, Pytest, Go test, TDD
 *   **Architecture & Tools**: Microservices, RESTful, GitHub Actions, AWS, Docker, RabbitMQ 
