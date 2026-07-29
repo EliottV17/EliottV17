@@ -1,8 +1,8 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Backend Engineer | Software Engineer | Backend Architecture | System Design Enthusiast**
+**Software Developer | Full   | System Design Enthusiast**
 
-I'm a Software Engineer based in Peru, specializing in building robust, scalable, and asynchronous backend architectures. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
+I'm a Software Engineer based in Peru, focused on building robust, scalable, and asynchronous backend architectures with a good frontend experience. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
 
 ### 🛠️ Technologies
 *   **Languages:** TypeScript, Python, Go, SQL
