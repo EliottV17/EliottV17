@@ -1,6 +1,6 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Software Developer | Full   | System Design Enthusiast**
+**Software Developer | Full Stack | System Design Enthusiast**
 
 I'm a Software Engineer based in Peru, focused on building robust, scalable, and asynchronous backend architectures with a good frontend experience. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
 
