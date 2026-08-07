@@ -1,14 +1,14 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Software Developer | Full Stack | System Design Enthusiast**
+** Backend Developer | Software Developer | System Design Enthusiast**
 
-I'm a Software Engineer based in Peru, focused on building robust, scalable, and asynchronous backend architectures with a good frontend experience. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
+I'm a Software Developer based in Peru, focused on building robust, scalable, and asynchronous backend architectures with a good frontend experience. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
 
 ### 🛠️ Technologies
-*   **Languages:** TypeScript, Python, Go, SQL
+*   **Languages:** TypeScript, Python, SQL
 *   **Libraries/Frameworks:** NestJS, ExpressJS, FastAPI, ReactJS
-*   **Databases & Caching:** PostgreSQL, MySQL, Redis
-*   **Testing & Quality:** Jest, Pytest, Go test, TDD
+*   **Databases & Caching:** PostgreSQL, MongoDB, Redis
+*   **Testing & Quality:** Jest, Pytest, TDD
 *   **Architecture & Tools**: Microservices, RESTful, GitHub Actions, AWS, Docker, RabbitMQ 
 
 ### 🚀 Featured Project
