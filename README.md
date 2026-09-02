@@ -13,7 +13,7 @@ I'm a Software Developer based in Peru, focused on building robust, scalable, an
 
 ### 🚀 Featured Project
 *   **[Sentinel API](https://github.com/EliottV17/sentinel-api):** An asynchronous monitoring engine and alerting system built from scratch. Developed with FastAPI, SQLModel, and PostgreSQL.
-*   **[gym-buddy-api](https://github.com/EliottV17/gym-buddy-api):**A location-based matchmaking API for fitness enthusiasts. Built with NestJS, Bun, and PostgreSQL, featuring secure authentication and geospatial queries to connect nearby training partners.
+*   **[gym-buddy-api](https://github.com/EliottV17/gym-buddy-api):** A location-based matchmaking API for fitness enthusiasts. Built with NestJS, Bun, and PostgreSQL, featuring secure authentication and geospatial queries to connect nearby training partners.
 
 ### 📚 Currently Learning
 *   Large-scale distributed systems architecture (System Design).
