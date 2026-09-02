@@ -1,6 +1,6 @@
 ## Hi, I'm Eliott Velarde 👋
 
-** Backend Developer | Software Developer | System Design Enthusiast**
+**Backend Developer | Software Developer | System Design Enthusiast**
 
 I'm a Software Developer based in Peru, focused on building robust, scalable, and asynchronous backend architectures with a good frontend experience. I am passionate about system design and creating efficient APIs that solve complex business logic problems.
 
