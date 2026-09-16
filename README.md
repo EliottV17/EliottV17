@@ -16,7 +16,7 @@ I'm particularly interested in system design, databases, software architecture, 
 
 ### 🚀 Featured Project
 *   **[Sentinel-App](https://github.com/EliottV17/sentinel-project):** An asynchronous monitoring engine and alerting system built from scratch. Developed with FastAPI, SQLModel, and PostgreSQL.
-*   **[Gym-Buddy-App](https://github.com/EliottV17/Gym-Byddy-App):** A location-based matchmaking API for fitness enthusiasts. Built with NestJS, Bun, and PostgreSQL, featuring secure authentication and geospatial queries to connect nearby training partners.
+*   **[Gym-Buddy-App](https://github.com/EliottV17/Gym-Buddy-App):** A location-based matchmaking API for fitness enthusiasts. Built with NestJS, Bun, and PostgreSQL, featuring secure authentication and geospatial queries to connect nearby training partners.
 *   **[Portfolio](https://eliottvelarde.com):** My personal portfolio, designed around a terminal-inspired interface and built with a focus on simplicity, performance, and developer experience.
 
 ### 🧠 Areas of Interest
