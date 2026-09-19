@@ -1,8 +1,8 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Backend Engineer | Backend Systems | System Design**
+**Backend Software Engineer | Backend Systems | System Design**
 
-I'm a Software Developer based in Peru, focused on building reliable backend systems, APIs, and asynchronous services. 
+I'm a Backend engineer focused on building resilient systems. I specialize in developing concurrent execution engines in Go and structured APIs with NestJS, relying on PostgreSQL as the core source of truth, while keeping a solid React foundation for end-to-end integration.. 
 
 I'm particularly interested in system design, databases, software architecture, and scalable backend systems, with a focus on understanding how different components work together to build maintainable and practical software.
 
@@ -15,8 +15,8 @@ I'm particularly interested in system design, databases, software architecture, 
 *   **CI/CD**: GitHub Actions, Git
 
 ### 🚀 Featured Project
-*   **[Sentinel-App](https://github.com/EliottV17/sentinel-project):** An asynchronous monitoring engine and alerting system built from scratch. Developed with FastAPI, SQLModel, and PostgreSQL.
-*   **[Gym-Buddy-App](https://github.com/EliottV17/Gym-Buddy-App):** A location-based matchmaking API for fitness enthusiasts. Built with NestJS, Bun, and PostgreSQL, featuring secure authentication and geospatial queries to connect nearby training partners.
+*   **[Sentinel-App](https://github.com/EliottV17/sentinel-project):** An asynchronous monitoring engine and alerting system built from scratch. Developed with NestJS, PrismaORM, worker in Go, React for a simple interface and PostgreSQL.
+*   **[Gym-Buddy-App](https://github.com/EliottV17/Gym-Buddy-App):** A location-based matchmaking API for fitness enthusiasts. Built with NestJS, React, and PostgreSQL, featuring secure authentication and geospatial queries to connect nearby training partners.
 *   **[Portfolio](https://eliottvelarde.com):** My personal portfolio, designed around a terminal-inspired interface and built with a focus on simplicity, performance, and developer experience.
 
 ### 🧠 Areas of Interest
