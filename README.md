@@ -10,8 +10,8 @@ I'm particularly interested in system design, databases, software architecture, 
 *   **Languages:** TypeScript, Go, SQL
 *   **Libraries/Frameworks:** NestJS, ExpressJS, React
 *   **Databases & Caching:** PostgreSQL,MongoDB, Redis
-*   **Testing & Quality:** Jest, GoTest, TDD
-*   **Architecture & Infrastructure**: REST APIs, Microservices, Docker, RabbitMQ, AWS
+*   **Testing & Quality:** Jest, testing(Go), TDD
+*   **Architecture & Infrastructure**: REST APIs, Microservices, Docker, AWS(EC2, IAM)
 *   **CI/CD**: GitHub Actions, Git
 
 ### 🚀 Featured Project
