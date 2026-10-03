@@ -1,18 +1,15 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Backend Software Engineer | Backend Systems | System Design**
+**Software Developer | Backend Developer · TypeScript · Go · NestJS · PostgreSQL**
 
-I'm a Backend engineer focused on building resilient systems. I specialize in developing concurrent execution engines in Go and structured APIs with NestJS, relying on PostgreSQL as the core source of truth, while keeping a solid React foundation for end-to-end integration.. 
-
-I'm particularly interested in system design, databases, software architecture, and scalable backend systems, with a focus on understanding how different components work together to build maintainable and practical software.
+Backend-focused Software Developer with hands-on experience building REST APIs through professional collaboration and independent projects. Experienced with TypeScript, NestJS, Go, PostgreSQL, and automated testing, with a focus on backend architecture, concurrency, and reliable data systems. Comfortable working in remote teams and translating requirements into maintainable software.
 
 ### 🛠️ Technologies
-*   **Languages:** TypeScript, Go, SQL
+*   **Languages:** TypeScript, JavaScript, Go, SQL
 *   **Libraries/Frameworks:** NestJS, ExpressJS, React
-*   **Databases & Caching:** PostgreSQL,MongoDB, Redis
-*   **Testing & Quality:** Jest, testing(Go), TDD
-*   **Architecture & Infrastructure**: REST APIs, Microservices, Docker, AWS(EC2, IAM)
-*   **CI/CD**: GitHub Actions, Git
+*   **Databases & Caching:** PostgreSQL, MongoDB, Redis
+*   **Testing & Quality:** Jest, Go testing, TDD
+*   **Tools & Practices:**: REST APIs, JWT Authentication, Git, Docker, GitHub Actions (CI/CD), Testcontainers, Go testing, Jest, OpenAPI, Scrum
 
 ### 🚀 Featured Project
 *   **[Sentinel-App](https://github.com/EliottV17/sentinel-project):** An asynchronous monitoring engine and alerting system built from scratch. Developed with NestJS, PrismaORM, worker in Go, React for a simple interface and PostgreSQL.
@@ -27,14 +24,6 @@ I'm particularly interested in system design, databases, software architecture, 
 *   Database Design
 *   Software Architecture
 *   Performance & Scalability
-
-### 🤖 AI-Assisted Development
-
-I use AI coding agents as part of my development workflow to accelerate implementation and exploration.
-
-My approach is not to blindly rely on generated code, but to review, understand, test, debug, and refine the solutions produced with AI assistance.
-
-I'm particularly interested in how AI-assisted development can improve iteration speed while maintaining engineering quality and understanding.
 
 ### 📚 Currently Learning
 *   Large-scale distributed systems and System Design
