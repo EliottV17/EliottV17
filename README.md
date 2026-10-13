@@ -1,9 +1,8 @@
 ## Hi, I'm Eliott Velarde 👋
 
-**Software Developer | Backend Developer · TypeScript · Go**
+**Full Stack Developer | Backend Focused · TypeScript · Go**
 
-Backend-focused Software Developer building REST APIs and concurrent services with TypeScript, NestJS, Go, PostgreSQL,Docker, and AWS EC2, with a focus on backend architecture and reliable data systems. Shipped a production uptime-monitoring platform with CI, automated testing, HTTPS, health checks, and SSRF/rate-limit protections. Comfortable working in remote
-teams.
+Full Stack Developer with a strong backend focus: experience building React and Next.js interfaces and developing REST APIs and concurrent services using TypeScript, NestJS, Go, and PostgreSQL. Proven track record deploying on AWS with Docker, implementing automated testing (CI/CD), and collaborating in remote teams.
 
 ### 🛠️ Technologies
 *   **Languages:** TypeScript, JavaScript, Go, SQL
